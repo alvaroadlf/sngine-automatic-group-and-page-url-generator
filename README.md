@@ -1,4 +1,4 @@
-# Sngine automatic group and page url generator
+# How to do? 🤔
 
 ### 1º Add the .js (upload the "js" folder) to your theme folder
 
