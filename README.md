@@ -1,8 +1,12 @@
-# sNgine automatic group and page url generator
+# Sngine automatic group and page url generator
 
 ### 1º Add the .js (upload the "js" folder) to your theme folder
 
+The folder and its contents have this structure
 
+|-- js
+    |-- stringtourl
+        |-- jquery.slugify.js
 
 ### 2º Edit the _js_files.tpl
 
