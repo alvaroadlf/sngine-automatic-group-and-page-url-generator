@@ -1,8 +1,8 @@
 # automatic-group-and-page-url
 
-###1º Add the .js (upload the "js" folder) to your theme folder
+### 1º Add the .js (upload the "js" folder) to your theme folder
 
-###2º Edit the _js_files.tpl
+### 2º Edit the _js_files.tpl
 
 Go to line 131 and add one below, copy and paste this code (_REMEMEBER TO CHANGE YOUR THEME FOLDER NAME IN THE CODE)
 
@@ -10,7 +10,7 @@ Go to line 131 and add one below, copy and paste this code (_REMEMEBER TO CHANGE
 <script src="{$system['system_url']}/content/themes/YOURTHEMEFOLDERNAME/js/stringtoslug/jquery.slugify.js" type="text/javascript"></script>
 ```
 
-###3º
+### 3º
 
 You must add this code below each form to create or edit a group or page, in index.tpl, in group.tpl and in page.tpl
 
