@@ -1,4 +1,4 @@
-# automatic-group-and-page-url
+# sNgine automatic group and page url generator
 
 ### 1º Add the .js (upload the "js" folder) to your theme folder
 
