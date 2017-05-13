@@ -4,15 +4,15 @@
 
 The folder and its contents have this structure
 
-|-- js
-    |-- stringtourl
-        |-- jquery.slugify.js
+- js
+    -   stringtourl
+            -   jquery.slugify.js
 
 ### 2º Edit the _js_files.tpl
 
 Go to line 131 and add one below, copy and paste this code (_REMEMEBER TO CHANGE YOUR THEME FOLDER NAME IN THE CODE)
 
-```
+```js
 <script src="{$system['system_url']}/content/themes/YOURTHEMEFOLDERNAME/js/stringtoslug/jquery.slugify.js" type="text/javascript"></script>
 ```
 
@@ -20,7 +20,7 @@ Go to line 131 and add one below, copy and paste this code (_REMEMEBER TO CHANGE
 
 You must add this code below each form to create or edit a group or page, in index.tpl, in group.tpl and in page.tpl
 
-```
+```js
 <script src="{$system['system_url']}/includes/assets/js/jquery/jquery-3.1.1.min.js"></script>
 <script type="text/javascript" charset="utf-8">
 $().ready(function() {
