@@ -6,9 +6,9 @@ The folder and its contents have this structure
 
 -> js (folder)
 
---> stringtourl (folder)
+----> stringtourl (folder)
 
----> jquery.slugify.js (.js file)
+-------> jquery.slugify.js (.js file)
 
 ### 2º Edit the _js_files.tpl
 
