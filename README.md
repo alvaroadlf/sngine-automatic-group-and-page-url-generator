@@ -6,7 +6,7 @@ The folder and its contents have this structure
 
 - js
     -   stringtourl
-            -   jquery.slugify.js
+        -   jquery.slugify.js
 
 ### 2º Edit the _js_files.tpl
 
