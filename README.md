@@ -18,7 +18,11 @@ Go to line 131 and add one below, copy and paste this code (_REMEMEBER TO CHANGE
 
 ### 3º Add the rest of the code in the forms
 
-You must add this code below each form to create or edit a group or page, in index.tpl, in group.tpl and in page.tpl
+You must add this code below each form to create or edit a group or page, in:
+
+- **index.tpl**
+- **group.tpl**
+- **page.tpl**
 
 ```js
 <script src="{$system['system_url']}/includes/assets/js/jquery/jquery-3.1.1.min.js"></script>
